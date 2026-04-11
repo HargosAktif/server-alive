@@ -1,0 +1,15 @@
+# Example target list for ServerAlive
+
+8.8.8.8
+1.1.1.1
+scanme.nmap.org
+github.com
+google.com
+cloudflare.com
+
+# local network examples
+192.168.1.1
+192.168.1.10
+192.168.1.254
+10.0.0.1
+10.0.0.254
