@@ -2,8 +2,9 @@
 
 
 [![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=none&logoColor=white)](https://nmap.org/)
+
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+
 [![Networking](https://img.shields.io/badge/Networking-FF6F00?style=for-the-badge&logo=none&logoColor=white)]()
 
 ## Core Components
